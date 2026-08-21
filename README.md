@@ -3,7 +3,7 @@
 > An award-winning wireless water level monitoring and automatic pump control system developed using RF communication, discrete electronic components, and relay-based switching.
 
 <p align="center">
-  <img src="Images\Project_img.png" alt="Project Image" width="700">
+  <img src="Images\project_model.png" alt="Project Image" width="700">
 </p>
 
 ---
@@ -138,6 +138,27 @@ The complete circuit schematic is available inside the repository.
 # 🏅 Competition Recognition
 
 This project received the **2nd Runner-Up (3rd Place)** award at the **Technovision 2K23 Hardware Project Competition**, recognizing its practical implementation and engineering design.
+
+---
+
+## PCB Design
+
+The original prototype was later redesigned as a dedicated PCB using KiCad.
+
+### Schematic
+<p align="center">
+  <img src="Images\schematic_kicad.jpg" alt="Schematic" width="700">
+</p>
+
+### PCB Layout
+<p align="center">
+  <img src="Images\pcb_layout_tank_unit.jpg" alt="PCB Layout" width="700">
+</p>
+
+### 3D PCB Visualization
+<p align="center">
+  <img src="Images\pcb_3D_view_with_components.jpg" alt="3D PCB Visulization" width="700">
+</p>
 
 ---
 

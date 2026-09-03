@@ -26,6 +26,10 @@ Unlike many modern implementations based on microcontrollers, this project was b
 
 This project was recognized for its innovative approach to wireless and automatic pump control.
 
+<p align="center">
+  <img src="Images\Hardware_based_project_Certificate.jpeg alt="Merit Certificate" width="700">
+</p>
+
 ---
 
 # ✨ Features

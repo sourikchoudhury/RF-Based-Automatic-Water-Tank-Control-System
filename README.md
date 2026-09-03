@@ -103,11 +103,11 @@ The complete operation is performed automatically without requiring manual inter
 # 📄 Circuit Diagram
 
 <p align="center">
-  <img src="PCB Tank\schematic_kicad.jpg" alt="Circuit Diagram - Tank Unit" width="800">
+  <img src="PCB Tank Unit\schematic_kicad.jpg" alt="Circuit Diagram - Tank Unit" width="800">
 </p>
 
 <p align="center">
-  <img src="PCB Pump\receiver_schematic_drawing_03.jpg" alt="Circuit Diagram - Pump Unit" width="800">
+  <img src="PCB Pump Unit\receiver_schematic_drawing_03.jpg" alt="Circuit Diagram - Pump Unit" width="800">
 </p>
 
 ---
@@ -115,11 +115,11 @@ The complete operation is performed automatically without requiring manual inter
 # PCB 3D View
 
 <p align="center">
-  <img src="PCB Tank\pcb_3D_view_with_components.jpg" alt="PCB 3D - Tank Unit" width="800">
+  <img src="PCB Tank Unit\pcb_3D_view_with_components.jpg" alt="PCB 3D - Tank Unit" width="800">
 </p>
 
 <p align="center">
-  <img src="PCB Pump\receiver_3d_07.jpg" alt="PCB 3D - Pump Unit" width="800">
+  <img src="PCB Pump Unit\receiver_3d_07.jpg" alt="PCB 3D - Pump Unit" width="800">
 </p>
 
 ---
@@ -127,11 +127,11 @@ The complete operation is performed automatically without requiring manual inter
 # PCB Routing
 
 <p align="center">
-  <img src="PCB Tank\pcb_layout_tank_unit.jpg" alt="PCB Routing - Tank Unit" width="800">
+  <img src="PCB Tank Unit\pcb_layout_tank_unit.jpg" alt="PCB Routing - Tank Unit" width="800">
 </p>
 
 <p align="center">
-  <img src="PCB Pump\receiver_pcb_copper05.jpg" alt="PCB Routing - Pump Unit" width="800">
+  <img src="PCB Pump Unit\receiver_pcb_copper05.jpg" alt="PCB Routing - Pump Unit" width="800">
 </p>
 
 For more pictures visit PCB directories....

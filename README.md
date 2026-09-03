@@ -102,10 +102,42 @@ The complete operation is performed automatically without requiring manual inter
 
 # 📄 Circuit Diagram
 
-The complete circuit schematic is available inside the repository.
+<p align="center">
+  <img src="PCB Tank\schematic_kicad.jpg" alt="Circuit Diagram - Tank Unit" width="800">
+</p>
 
+<p align="center">
+  <img src="PCB Pump\receiver_schematic_drawing_03.jpg" alt="Circuit Diagram - Pump Unit" width="800">
+</p>
 
 ---
+
+# PCB 3D View
+
+<p align="center">
+  <img src="PCB Tank\pcb_3D_view_with_components.jpg" alt="PCB 3D - Tank Unit" width="800">
+</p>
+
+<p align="center">
+  <img src="PCB Pump\receiver_3d_07.jpg" alt="PCB 3D - Pump Unit" width="800">
+</p>
+
+---
+
+# PCB Routing
+
+<p align="center">
+  <img src="PCB Tank\pcb_layout_tank_unit.jpg" alt="PCB Routing - Tank Unit" width="800">
+</p>
+
+<p align="center">
+  <img src="PCB Pump\receiver_pcb_copper05.jpg" alt="PCB Routing - Pump Unit" width="800">
+</p>
+
+For more pictures visit PCB directories....
+
+---
+
 
 # 🚀 Future Improvements
 
@@ -138,27 +170,6 @@ The complete circuit schematic is available inside the repository.
 # 🏅 Competition Recognition
 
 This project received the **2nd Runner-Up (3rd Place)** award at the **Technovision 2K23 Hardware Project Competition**, recognizing its practical implementation and engineering design.
-
----
-
-## PCB Design
-
-The original prototype was later redesigned as a dedicated PCB using KiCad.
-
-### Schematic
-<p align="center">
-  <img src="Images\schematic_kicad.jpg" alt="Schematic" width="700">
-</p>
-
-### PCB Layout
-<p align="center">
-  <img src="Images\pcb_layout_tank_unit.jpg" alt="PCB Layout" width="700">
-</p>
-
-### 3D PCB Visualization
-<p align="center">
-  <img src="Images\pcb_3D_view_with_components.jpg" alt="3D PCB Visulization" width="700">
-</p>
 
 ---
 
